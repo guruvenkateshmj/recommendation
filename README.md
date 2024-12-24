@@ -1,9 +1,7 @@
 # recommender_live
 
 
-##Overview
 
-This is the code for [this](https://youtu.be/18adykNGhHU) video on Youtube by Siraj Raval. We're going to be looking at recommendation systems and we focus on popularity-based, item-item collaborative filtering, and user-item collaborative filtering. Then at the end we talk about the bleeding edge, which is a deep learning approach. 
 
 
 ##Dependencies
